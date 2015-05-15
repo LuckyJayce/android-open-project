@@ -57,6 +57,12 @@ Demo地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh/blob/mas
   <img src='http://srain-github.qiniudn.com/ultra-ptr/store-house-string-array.gif' width="150px"/>  
 </div>  
 
+1. MVCHelper
+可以与主流的android-Ultra-Pull-to-Refresh,Android-PullToRefresh-Library,SwipeRefreshLayout的下拉刷新类库配套使用.   
+实现下拉刷新，滚动底部自动加载更多，分页加载，自动切换显示网络失败布局，暂无数据布局，支持任意view，支持切换主流下拉刷新框架，真正的MVC架构  
+项目地址:https://github.com/LuckyJayce/MVCHelper  
+demo apk下载链接:[Apk](https://github.com/LuckyJayce/MVCHelper/blob/master/raw/MVCHelper_Demo.apk?raw=true)  
+ 
 1. DropDownListView  
 下拉刷新及滑动到底部加载更多ListView  
 项目地址：https://github.com/Trinea/AndroidCommon  
